@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## [Our website](polyxutils.github.io/Website/)
+## [Our website](https://polyxutils.github.io/Website/)
 
 <!--
 
